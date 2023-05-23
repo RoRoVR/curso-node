@@ -1,6 +1,6 @@
 # Curso --> https://www.youtube.com/watch?v=1hpc70_OoAg&list=WL&index=124&t=559s&ab_channel=freeCodeCampEspa%C3%B1ol
 
-## Continuar --> time 5:20:58
+## Continuar --> time 7:22:32
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
