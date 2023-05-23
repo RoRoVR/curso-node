@@ -1,0 +1,14 @@
+{
+  "name": "07-express",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto con Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Rodrigo Velasco Rios",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
